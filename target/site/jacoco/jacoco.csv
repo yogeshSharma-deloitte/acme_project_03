@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+acme-project-springboot,com.hashedin.migration.controllers,ProductController,12,3,0,0,4,1,1,1,1,1
+acme-project-springboot,com.hashedin.migration.controllers,UserController,20,3,0,0,5,1,4,1,4,1
+acme-project-springboot,com.hashedin.migration.entity,User,0,43,0,0,0,19,0,10,0,10
+acme-project-springboot,com.hashedin.migration.entity,Product,0,24,0,0,0,10,0,7,0,7
+acme-project-springboot,com.hashedin.migration,AcmeProjectSpringbootApplication,5,3,0,0,2,1,1,1,1,1
+acme-project-springboot,com.hashedin.migration.services,UserService,4,69,3,3,2,16,3,6,0,6

@@ -1,0 +1,8 @@
+/usr/src/app/20230928072840/acme-project-springboot/src/main/java/com/hashedin/migration/controllers/ProductController.java
+/usr/src/app/20230928072840/acme-project-springboot/src/main/java/com/hashedin/migration/services/UserService.java
+/usr/src/app/20230928072840/acme-project-springboot/src/main/java/com/hashedin/migration/repository/ProductRepository.java
+/usr/src/app/20230928072840/acme-project-springboot/src/main/java/com/hashedin/migration/entity/User.java
+/usr/src/app/20230928072840/acme-project-springboot/src/main/java/com/hashedin/migration/repository/UserRepository.java
+/usr/src/app/20230928072840/acme-project-springboot/src/main/java/com/hashedin/migration/AcmeProjectSpringbootApplication.java
+/usr/src/app/20230928072840/acme-project-springboot/src/main/java/com/hashedin/migration/entity/Product.java
+/usr/src/app/20230928072840/acme-project-springboot/src/main/java/com/hashedin/migration/controllers/UserController.java
